@@ -6,7 +6,7 @@
 	<artifactId>mycoolwebapp</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>mycoolwebapp Maven Webapp</name>
+	<name>mycoolwebapp</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
